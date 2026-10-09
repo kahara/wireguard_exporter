@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	wireguardexporter "github.com/mdlayher/wireguard_exporter"
+	wireguardexporter "github.com/kahara/wireguard_exporter"
 )
 
 func TestParsePeers(t *testing.T) {

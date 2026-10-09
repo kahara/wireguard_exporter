@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mdlayher/promtest"
+	"github.com/kahara/promtest"
 	"golang.zx2c4.com/wireguard/wgctrl/wgtypes"
 )
 

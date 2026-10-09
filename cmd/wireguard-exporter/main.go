@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	wireguardexporter "github.com/mdlayher/wireguard_exporter"
+	wireguardexporter "github.com/kahara/wireguard_exporter"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"golang.zx2c4.com/wireguard/wgctrl"
