@@ -1,1 +1,4 @@
 cmd/wireguard_exporter/wireguard_exporter
+.idea
+*~
+\#*
